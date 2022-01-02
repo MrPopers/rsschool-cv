@@ -1,1 +1,1 @@
-# rsschool-cv
+# My CV with GitHub
